@@ -109,6 +109,7 @@ p{
   width: 100%;
   padding: 1rem;
   font-size: 1rem;
+  font-family: 'Poppins', sans-serif;
   background-color: var(--primary-color);
   outline: none;
   border: none;
