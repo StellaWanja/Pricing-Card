@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Pricing-Card/static/css/main.6c1f47d7.chunk.css",
+    "main.css": "/Pricing-Card/static/css/main.0c3370df.chunk.css",
     "main.js": "/Pricing-Card/static/js/main.606bf0c7.chunk.js",
     "main.js.map": "/Pricing-Card/static/js/main.606bf0c7.chunk.js.map",
     "runtime-main.js": "/Pricing-Card/static/js/runtime-main.d001cd08.js",
@@ -10,13 +10,13 @@
     "static/js/3.218974ae.chunk.js": "/Pricing-Card/static/js/3.218974ae.chunk.js",
     "static/js/3.218974ae.chunk.js.map": "/Pricing-Card/static/js/3.218974ae.chunk.js.map",
     "index.html": "/Pricing-Card/index.html",
-    "static/css/main.6c1f47d7.chunk.css.map": "/Pricing-Card/static/css/main.6c1f47d7.chunk.css.map",
+    "static/css/main.0c3370df.chunk.css.map": "/Pricing-Card/static/css/main.0c3370df.chunk.css.map",
     "static/js/2.600de5ae.chunk.js.LICENSE.txt": "/Pricing-Card/static/js/2.600de5ae.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.d001cd08.js",
     "static/js/2.600de5ae.chunk.js",
-    "static/css/main.6c1f47d7.chunk.css",
+    "static/css/main.0c3370df.chunk.css",
     "static/js/main.606bf0c7.chunk.js"
   ]
 }
